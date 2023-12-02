@@ -1,0 +1,17 @@
+{
+    "Notion" : [
+        {
+            "token": ""
+        }
+    ],
+    "device" : [
+        {
+            "audio_file_path": ""
+        }
+    ],
+    "server" : [
+        {
+            "is_server": false
+        }
+    ]
+}

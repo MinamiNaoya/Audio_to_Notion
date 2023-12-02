@@ -1,0 +1,17 @@
+{
+    "Notion" : [
+        {
+            "token": ""
+        }
+    ],
+    "device" : [
+        {
+            "audio_file_path": "C:/Users/NEC-PCuser/OneDrive/デスクトップ/Audio_to_Notion/audio_files"
+        }
+    ],
+    "server" : [
+        {
+            "is_server": false
+        }
+    ]
+}
