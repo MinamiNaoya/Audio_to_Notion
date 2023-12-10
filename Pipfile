@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pydub = "*"
+matplotlib = "*"
 
 [dev-packages]
 
