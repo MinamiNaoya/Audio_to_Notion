@@ -12,8 +12,10 @@ soundfile = "*"
 torchaudio = "*"
 tim = "*"
 librosa = "*"
+google = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
