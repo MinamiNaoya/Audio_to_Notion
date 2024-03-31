@@ -6,8 +6,17 @@ name = "pypi"
 [packages]
 pydub = "*"
 matplotlib = "*"
+transformers = "*"
+setuptools = "*"
+soundfile = "*"
+torchaudio = "*"
+tim = "*"
+librosa = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.12"
+
+[pipenv]
+allow_prereleases = true
